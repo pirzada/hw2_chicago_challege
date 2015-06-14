@@ -4,6 +4,6 @@ To Analyze the infants death against the prenatal care in different community ar
 The two basic findings would be: 
 
 1. What is the correlation between them?
-2. What is the effect of Prenatal Carelessness (in percentage) to the infant deaths?
+2. What is the effect of "Not Given Prenatal Care" (in percentage) to the infant deaths?
  
 Best of Luck!
