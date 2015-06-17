@@ -14,4 +14,8 @@ The Final HW2 Submission
 https://github.com/pirzada/hw2_chicago_challege/ 
 
 # What I did?
-I have programed in Ruby and analyzed the Infants Death where Prenatal Care was Not Given.
+I have programmed in Ruby and analyzed the Infants Death where Prenatal Care was Not Given, as per above findings.
+
+# Info
+https://github.com/pirzada/ 
+mpirzada@luc.edu
