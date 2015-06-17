@@ -7,3 +7,11 @@ The two basic findings would be:
 2. What is the effect of "Not Given Prenatal Care" (in percentage) to the infant deaths?
  
 Best of Luck!
+
+
+# 06/16/2015
+The Final HW2 Submission
+https://github.com/pirzada/hw2_chicago_challege/ 
+
+# What I did?
+I have programed in Ruby and analyzed the Infants Death where Prenatal Care was Not Given.
